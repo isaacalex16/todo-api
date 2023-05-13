@@ -1,0 +1,8 @@
+service: todo-api-jast
+runtime: java17
+instance_class: F1
+
+env_variables:
+  DB_URL: "jdbc:postgresql://34.123.172.110:5432/todo_db"
+  DB_USERNAME: "app_user"
+  DB_PASSWORD: ":Hpn#J,.qj)Um8,K"
